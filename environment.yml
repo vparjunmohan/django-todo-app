@@ -32,4 +32,19 @@ dependencies:
     - python-decouple==3.4
     - python-dotenv==0.15.0
     - whitenoise==5.2.0
+    - openssl==1.1.1i=h2bbff1b_0
+    - python==3.8.5=h5fd99cc_1
+    - tk==8.6.10=he774522_0
+    - vc==14.2=h21ff451_1
+    - krb5==1.17.1=hc04afaa_0
+    - psycopg2==2.8.5=py38h7a1dbc1_0
+    - certifi==2020.12.5=py38haa95532_0
+    - libpq==12.2=h3235a2c_0
+    - wincertstore==0.2=py38_0
+    - ca-certificates==2020.12.8=haa95532_0
+    - vs2015_runtime==14.27.29016=h5e58377_2
+    - pip==20.3.1=py38haa95532_0
+    - zlib==1.2.11=h62dcd97_4
+    - setuptools==51.0.0=py38haa95532_2
+    - sqlite==3.33.0=h2a8f88b_0
 prefix: C:\Users\Arjun\anaconda3\envs\myenv
